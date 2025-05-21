@@ -1,0 +1,30 @@
+﻿@model IEnumerable<NhtLesson05Model.Models.DataModels.NhtMember>;
+@{
+    ViewData["Title"] = "NhtIndex";
+}
+
+<h1>Danh sách member</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var nhtItem in Model)
+        {
+            <tr>
+                <td>@nhtItem.NhtMemberId</td>
+                <td>@nhtItem.NhtUserName</td>
+                <td>@nhtItem.NhtPassword</td>
+                <td>@nhtItem.NhtFullName</td>
+                <td>@nhtItem.NhtEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
