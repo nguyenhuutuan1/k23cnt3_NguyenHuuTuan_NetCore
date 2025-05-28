@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "NhtLesson05Model\\Views\\NhtMember\\NhtIndex.cshtml",
               "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson05Model\\NhtLesson05Model\\Views\\NhtMember\\NhtIndex.cshtml",
               "RelativeToolTip": "NhtLesson05Model\\Views\\NhtMember\\NhtIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T04:09:08.526Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Controllers\\NhtMemberController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAwDIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T03:59:41.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:59:41.846Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Models\\DataModels\\NhtMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T03:35:40.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:35:40.138Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Views\\NhtHome\\NhtAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T03:11:26.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:11:26.554Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T03:07:45.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:07:45.193Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Views\\NhtHome\\NhtIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T03:06:36.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:06:36.353Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Controllers\\NhtHomeController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwBsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T02:54:57.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T02:54:57.295Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Views\\Shared\\_NhtNavBar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T02:49:34.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T02:49:34.448Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Views\\Shared\\_NhtLayout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T03:22:27.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T03:22:27.082Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "NhtLesson05Model\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T02:47:40.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T02:47:40.131Z"
             }
           ]
         }
