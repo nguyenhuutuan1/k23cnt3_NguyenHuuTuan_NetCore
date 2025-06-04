@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\controllers\\nhtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\controllers\\nhtemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\nhtemployee\\nhtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\nhtemployee\\nhtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\nhtemployee\\nhtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\nhtemployee\\nhtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\nhthome\\nhtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\nhthome\\nhtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\nhtemployee\\nhtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\nhtemployee\\nhtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\shared\\_nhtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\shared\\_nhtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\models\\nhtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\models\\nhtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\shared\\_nhtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\shared\\_nhtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\controllers\\nhthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\controllers\\nhthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\views\\nhthome\\nhtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\views\\nhthome\\nhtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nhtlesson07\\nhtlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE55BC0-2882-472B-9A8F-4BE95B631CAF}|NhtLesson07\\NhtLesson07.csproj|solutionrelative:nhtlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhtEdit.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtEdit.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\NhtEmployee\\NhtEdit.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtEdit.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\NhtEmployee\\NhtEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:15:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhtCreate.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtCreate.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\NhtEmployee\\NhtCreate.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtCreate.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\NhtEmployee\\NhtCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:03:12.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhtIndex.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtIndex.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\NhtEmployee\\NhtIndex.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtEmployee\\NhtIndex.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\NhtEmployee\\NhtIndex.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:40:27.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhtEmployeeController.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Controllers\\NhtEmployeeController.cs",
+              "RelativeDocumentMoniker": "NhtLesson07\\Controllers\\NhtEmployeeController.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Controllers\\NhtEmployeeController.cs",
+              "RelativeToolTip": "NhtLesson07\\Controllers\\NhtEmployeeController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwGcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:29:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhtEmployee.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Models\\NhtEmployee.cs",
+              "RelativeDocumentMoniker": "NhtLesson07\\Models\\NhtEmployee.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Models\\NhtEmployee.cs",
+              "RelativeToolTip": "NhtLesson07\\Models\\NhtEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:25:36.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhtIndex.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtHome\\NhtIndex.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\NhtHome\\NhtIndex.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtHome\\NhtIndex.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\NhtHome\\NhtIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:47:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhtHomeController.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Controllers\\NhtHomeController.cs",
+              "RelativeDocumentMoniker": "NhtLesson07\\Controllers\\NhtHomeController.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Controllers\\NhtHomeController.cs",
+              "RelativeToolTip": "NhtLesson07\\Controllers\\NhtHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:44:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_NhtLayout.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\Shared\\_NhtLayout.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\Shared\\_NhtLayout.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\Shared\\_NhtLayout.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\Shared\\_NhtLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:41:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_NhtNavBar.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\Shared\\_NhtNavBar.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\Shared\\_NhtNavBar.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\Shared\\_NhtNavBar.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\Shared\\_NhtNavBar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:42:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhtAbout.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtHome\\NhtAbout.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\NhtHome\\NhtAbout.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\NhtHome\\NhtAbout.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\NhtHome\\NhtAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:10:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Program.cs",
+              "RelativeDocumentMoniker": "NhtLesson07\\Program.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Program.cs",
+              "RelativeToolTip": "NhtLesson07\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:17:33.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NhtLesson07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NhtLesson07\\NhtLesson07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NhtLesson07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:40:44.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
