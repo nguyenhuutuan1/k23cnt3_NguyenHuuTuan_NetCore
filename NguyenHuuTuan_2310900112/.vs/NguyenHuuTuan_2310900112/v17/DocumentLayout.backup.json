@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\controllers\\nhtemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\controllers\\nhtemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\views\\shared\\_nhtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\views\\shared\\_nhtnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\models\\nguyenhuutuan2310900112context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\models\\nguyenhuutuan2310900112context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|d:\\netcore\\k23cnt3_nguyenhuutuan_netcore\\nguyenhuutuan_2310900112\\nguyenhuutuan_2310900112\\models\\nhtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B7EA74-159E-4722-B8C7-A05F6EF72C3C}|NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112.csproj|solutionrelative:nguyenhuutuan_2310900112\\models\\nhtemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_NhtNavBar.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Views\\Shared\\_NhtNavBar.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\Views\\Shared\\_NhtNavBar.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Views\\Shared\\_NhtNavBar.cshtml",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\Views\\Shared\\_NhtNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:40:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhtEmployeesController.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Controllers\\NhtEmployeesController.cs",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\Controllers\\NhtEmployeesController.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Controllers\\NhtEmployeesController.cs",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\Controllers\\NhtEmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:37:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\Program.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Program.cs",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:31:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\appsettings.json",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\appsettings.json",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T03:28:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhtEmployee.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Models\\NhtEmployee.cs",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\Models\\NhtEmployee.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Models\\NhtEmployee.cs",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\Models\\NhtEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:26:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenHuuTuan2310900112Context.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Models\\NguyenHuuTuan2310900112Context.cs",
+              "RelativeDocumentMoniker": "NguyenHuuTuan_2310900112\\Models\\NguyenHuuTuan2310900112Context.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_NguyenHuuTuan_NetCore\\NguyenHuuTuan_2310900112\\NguyenHuuTuan_2310900112\\Models\\NguyenHuuTuan2310900112Context.cs",
+              "RelativeToolTip": "NguyenHuuTuan_2310900112\\Models\\NguyenHuuTuan2310900112Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:24:54.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
